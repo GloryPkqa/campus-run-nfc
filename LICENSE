@@ -1,0 +1,29 @@
+Pkqa Attribution License 1.0
+
+Copyright (c) 2026 Pkqa (GitHub: GloryPkqa)
+Original project: https://github.com/GloryPkqa/campus-run-nfc
+
+Permission is granted, free of charge, to use, copy, modify, publish, distribute,
+sublicense, and sell this software and its documentation, subject to all of the
+following conditions:
+
+1. This copyright notice, this permission notice, and the original project URL
+   must be retained in all copies or substantial portions of the software.
+2. Distributed applications based on this software must retain a visible,
+   reasonably accessible "@Pkqa" author credit in their user interface. That
+   credit must link to https://github.com/GloryPkqa/campus-run-nfc when links are
+   supported. Additional school, maintainer, or contributor credits are welcome
+   but must not replace or obscure the original credit.
+3. Modified distributions must identify their own maintainer or make clear that
+   they are modified versions. No endorsement by the original author is implied.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. THE AUTHORS SHALL NOT BE LIABLE
+FOR CLAIMS, DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+This is a custom attribution license, not the standard MIT License.
+
+中文摘要（以以上许可条款为准）：允许使用、修改、发布和分发。请保留版权和
+许可说明；衍生 App 必须保留界面上的 @Pkqa 署名及原项目链接，可以追加学校
+或维护者署名。修改版请标明维护者或说明已修改。软件按现状提供。
