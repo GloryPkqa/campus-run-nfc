@@ -49,15 +49,11 @@ Java 字符串中的双引号和反斜杠需要转义。App 仍会优先使用�
 https://github.com/GloryPkqa/campus-run-nfc
 ```
 
-请保留这条可见、可点击的署名。可以添加“学校版本由 @你的名字 维护”，但不能删掉或替换原作者及原项目链接。发布源码时同时保留 `LICENSE` 和 `NOTICE`。
+请保留这条可见、可点击的署名，可以另加学校维护者的署名。发布源码时同时保留 `LICENSE` 和 `NOTICE`。
 
 ## 7. 构建并发布
 
 1. 按[构建教程](build.md)生成 APK，使用你自己长期保存的签名密钥。
 2. 修改 Manifest 中的 `versionCode` / `versionName`。后续更新时 `versionCode` 必须增大，同包名更新需使用同一签名密钥。
 3. 新建 GitHub Release，上传构建好的 APK 和 SHA-256 校验值。
-4. 在发布说明中写清适用学校、配置方式、维护者和原项目地址。
-
-可使用以下发布文案：
-
-> 这是面向「学校名称」的校园跑 NFC 助手版本，帮助同学保存自己的 NFC 启动地址，减少在入口处排队和反复操作的时间。基于 [@Pkqa 的校园跑 NFC 助手](https://github.com/GloryPkqa/campus-run-nfc) 修改，学校版本由「你的名字」维护。功能结果以目标校园跑页面为准。
+4. 发布时简要说明适用学校和维护者，并注明原作者 `@Pkqa` 及[原项目链接](https://github.com/GloryPkqa/campus-run-nfc)即可。

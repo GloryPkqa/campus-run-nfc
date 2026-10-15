@@ -45,8 +45,8 @@
 
 ## 作者与使用许可
 
-作者：**[@Pkqa](https://github.com/GloryPkqa)**。原项目：<https://github.com/GloryPkqa/campus-run-nfc>。
+作者：[@Pkqa](https://github.com/GloryPkqa)
 
-欢迎为自己的学校制作版本。发布衍生 App 时，**必须保留界面上可见的 `@Pkqa` 署名、点击前往原项目的链接，以及源码中的版权和许可说明**；可以另加学校维护者的署名。
+欢迎修改并制作自己学校的版本。发布衍生版本时，请保留界面上的 `@Pkqa` 署名及[原项目链接](https://github.com/GloryPkqa/campus-run-nfc)，可另加维护者署名。
 
-项目采用 [Pkqa Attribution License 1.0](LICENSE)，这是附带界面署名要求的自定义许可，不是标准 MIT 许可。具体条件以 LICENSE 为准。
+本项目采用自定义署名许可，详见 [LICENSE](LICENSE)。
